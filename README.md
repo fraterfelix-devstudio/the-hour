@@ -1,8 +1,8 @@
-# the-hour-legal
+# the-hour legal
 
 Public legal notices for **The Hour**.
 
-Served via GitHub Pages at https://fraterfelix-devstudio.github.io/the-hour-legal/.
+Served via GitHub Pages at https://fraterfelix-devstudio.github.io/the-hour/.
 
 ## Structure
 
